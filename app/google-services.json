@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831330235928",
+    "firebase_url": "https://textrecog-26e54.firebaseio.com",
+    "project_id": "textrecog-26e54",
+    "storage_bucket": "textrecog-26e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831330235928:android:9c9e608a0b5eb383",
+        "android_client_info": {
+          "package_name": "com.developer.jatin.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831330235928-24c9qnet6ravbu3lggpq45vsqjhg2o7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.jatin.textrecognition",
+            "certificate_hash": "8f5860e901d7d7b1d8152c4476310912859a01f0"
+          }
+        },
+        {
+          "client_id": "831330235928-qsa44eopkkr8u0ud6tgkiaops6dtkoca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRh_9_VxpsIl6rC8vJx52OIT6EHTLX0qI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831330235928-qsa44eopkkr8u0ud6tgkiaops6dtkoca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
